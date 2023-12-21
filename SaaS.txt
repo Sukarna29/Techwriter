@@ -9,3 +9,5 @@ SRS Doc file
 CSS
 JavaScript
 IT Case studies
+Tech-cloud
+Salesforce
