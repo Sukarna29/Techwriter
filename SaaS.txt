@@ -4,6 +4,9 @@ B2C
 SDLC
 MarkDown
 HTML
+HTML 5
+JQery
+Laravel
 Agile process
 SRS Doc file
 CSS
