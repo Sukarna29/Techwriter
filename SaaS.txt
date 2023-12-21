@@ -4,6 +4,8 @@ B2C
 SDLC
 MarkDown
 HTML
+Agile process
+SRS Doc file
 CSS
 JavaScript
 IT Case studies
