@@ -6,6 +6,8 @@ MarkDown
 HTML
 Agile process
 SRS Doc file
+Aerobics
+Level Area
 CSS
 JavaScript
 IT Case studies
